@@ -1,3 +1,18 @@
+// In this version, I've added the following features:
+
+// Dynamic Board Display:
+// The board is displayed in a more dynamic manner, with numbers arranged in a snakelike pattern.
+
+// Player Names:
+// Players can now enter their names at the beginning of the game.
+
+// Extended Special Positions:
+// Added more special positions, including additional snakes and ladders.
+
+// Winning Message:
+// When a player reaches the winning position, a congratulatory message is displayed.
+
+
 
 #include <iostream>
 #include <cstdlib>
